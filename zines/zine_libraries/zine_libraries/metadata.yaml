@@ -1,0 +1,35 @@
+title: "Zine Libraries"
+
+creator:
+  - "Jackson Galati"
+  - "Marie Cantor"
+  - "Ava Lawler"
+
+year: 2025
+date_published: ""
+
+location:
+  city: New York
+  region: New York
+  country: United States
+
+language: en
+format: PDF
+
+category: zine_libraries
+
+tags:
+  - zine libraries
+  - libraries
+  - library and information science
+  - zines
+  - zine resources
+
+tag_source:
+  name: "Anchor Archive Zine Subject Thesaurus"
+  url: "https://anchorarchive.org/subject-thesaurus"
+
+license: "CC BY-NC 4.0"
+
+description: >
+  An introduction to zines, zine libraries, and the history of zines and zine libraries, with practical recommendations for zine librarians.

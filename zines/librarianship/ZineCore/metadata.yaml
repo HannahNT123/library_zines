@@ -1,0 +1,36 @@
+title: "Zinecore
+
+creator:
+  - "Milo"
+
+
+year: 2013
+date_published: "2013-04"
+
+location:
+  city: Durham
+  region: North Carolina
+  country: United States
+
+language: en
+format: PDF
+
+category: zine_librarianship
+
+tags:
+  - zine libraries
+  - libraries
+  - librarians
+  - library and information science
+  - zines
+  - zine resources
+  - archives
+
+tag_source:
+  name: "Anchor Archive Zine Subject Thesaurus"
+  url: "https://anchorarchive.org/subject-thesaurus"
+
+license: "CC BY-NC 4.0"
+
+description: >
+  A zine about a metadata standard for zines known as zinecore.

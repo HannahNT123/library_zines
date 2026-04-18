@@ -1,0 +1,34 @@
+title: "Library Super Hero"
+
+creator:
+  - "Aidan Skipper-Martinez"
+
+year:
+date_published: ""
+
+location:
+  city:
+  region:
+  country:
+
+language: en
+format: PDF
+
+category: librarians
+
+tags:
+  - librarians
+  - libraries
+  - library and information science
+  - queer
+  - trans
+  - censorship
+
+tag_source:
+  name: "Anchor Archive Zine Subject Thesaurus"
+  url: "https://anchorarchive.org/subject-thesaurus"
+
+license: ""
+
+description: >
+  A reflection on fighting the censorship of LGBTQ books in local libraries in a red state. 

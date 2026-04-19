@@ -4,7 +4,19 @@
 
 ---
 
-## 🏫 About this Little Onlie Zine Library ##
+## 🏫 About this Little Online Zine Library ##
+
+This little online library is an experiment in information retrieval architecture. The goal is to to explore whether or not a Git repository can serve as library infrastructure. 
+
+A Git repository offers:
+- sustainable online infrastructure
+- decentralized contribution
+- durable URLs
+- low technical barriers
+- alignment with open knowledge practices
+  
+Of course, there are drawbacks to using Git:
+- sustainable online infrastructure
 
 
 
@@ -25,32 +37,28 @@ If you already know what zine you want, or if you are happy to peruse the collec
 
 If you would like to get to know the collection a little better or search for a zine by subject or visual style:
 
-🌐 **Browse the visual zine library:**
+🌐 **Browse the zine library:**
 https://hannahnt123.github.io/library_zines/
 
 ---
 
 ## 🗂️ How These Zines Were Catalogued
 
-This project treats **cataloguing as an interpretive act**, not a neutral one.
+The zines in this little online library are maintained in their own folders, which contain the zine itself, a metadata file, and a cover image. 
 
-Zines are described using:
-- **folder‑based organization** within the repository
-- **per‑zine metadata files**
-- **controlled subject terms drawn from Anchor Archive’s Zine Subject Thesaurus**
+The metadata collected for each zine includes subject tags to help users identify zines they might be interested in. 
 
-Using an established zine‑specific controlled vocabulary supports:
-- consistency across records
-- better retrieval
-- alignment with existing zine librarianship practices
+**This collection draws on Anchor Archive’s Zine Subject Thesaurus for the controlled vocabulary used to tag each zine**
 
-At the same time, the structure remains flexible enough to evolve as the collection grows.
+According to Anchor Archive, "The Zine Subject Thesaurus is a set of subject terms that can be used to catalogue zines and other alternative publications or content. It is used in the Anchor Archive catalogue and by many zine libraries and collections around the world. It is designed to be accessible, with language that typical zine readers would use to search for content." The Subject Thesaurus also prioritizes "up-to-date terminology used by radical communities to refer to people, places, concepts, and movements. The Zine Thesaurus currently as over 1,800 preferred terms, and more terms are added every month."
+
+**For more on Anchor Archive or their incredible Zine Thesaurus, visit: https://anchorarchive.org/subject-thesaurus/about**
 
 ---
 
 ## 📨 Add a Zine to the Collection
 
-If you have written a zine about libraries, librarians, or librarianship, **please consider adding your zine to this collection**.
+If you have created a zine about libraries, librarians, or librarianship, **please consider adding your zine to this collection**.
 
 This zine library accepts contributions via **GitHub Issues**.  
 You do **not** need to know Git or submit a pull request to contribute.

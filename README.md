@@ -1,6 +1,6 @@
 # 📚 Zines About Libraries, Librarians, and Librarianship
 
-🚀 *A little online library to preserve and make accessible zines by, for, and about librarians.*
+*A little online library*
 
 ---
 

@@ -3,8 +3,34 @@
 <head>
   <meta charset="utf-8">
   <title>Zine Library</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body { margin: 80px; font-family: system-ui, sans-serif; }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+      gap: 240px;
+      justify-items: center;
+    }
+    .grid img {
+      width: 140px;
+      height: 200px;
+      object-fit: cover;
+    }
+  </style>
 </head>
 <body>
-  <h1>GitHub Pages works</h1>
+
+<h1>Zine Library</h1>
+<p>Click a cover to download the zine.</p>
+
+<div class="grid">
+
+  <a href="https://raw.githubusercontent.com/HannahNT123/library_zines/main/zines/librarianship/zine_librarians_code_of_ethics/zine_librarians_code_of_ethics.pdf">
+    <img src="https://raw.githubusercontent.com/HannahNT123/library_zines/main/zines/librarianship/zine_librarians_code_of_ethics/cover.jpg">
+  </a>
+
+</div>
+
 </body>
 </html>

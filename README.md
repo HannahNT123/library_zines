@@ -97,7 +97,7 @@ You may be contacted in the issue thread if clarification is required.
 
 ---
 
-## 🧭 Ethical Commitments
+## 🐙 Ethical Commitments
 
 This project is guided by the **Zine Librarians Code of Ethics**. To that end, please rest assured that: 
 

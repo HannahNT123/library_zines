@@ -48,6 +48,9 @@ They include:
 
 This collection exists because these zines *do* exist — but are often scattered, difficult to locate, or entirely invisible within traditional discovery systems.
 
+🌐 **Browse the visual zine library:**
+https://hannahnt123.github.io/library_zines/
+
 ---
 
 ## 🗂️ How These Zines Were Catalogued

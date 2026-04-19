@@ -29,7 +29,7 @@ location:
 language: en
 format: PDF
 
-category: zine_librarianship
+category: librarianship
 
 tags:
   - ethical consumption
@@ -45,8 +45,7 @@ tag_source:
   name: "Anchor Archive Zine Subject Thesaurus"
   url: "https://anchorarchive.org/subject-thesaurus"
 
-license: "CC BY-NC 4.0"
+license: "CC-BY-NC 4.0"
 
 description: >
-  A collaboratively authored zine outlining ethical principles for acquiring,
-preserving, and providing access to zines in library and archival contexts.
+  A collaboratively authored zine outlining ethical principles for acquiring, preserving, and providing access to zines in library and archival contexts.

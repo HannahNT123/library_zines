@@ -1,7 +1,6 @@
 # 📚 Zines About Libraries, Librarians, and Librarianship
 
-*Zines about libraries and librarianship exist — but without a dedicated retrieval system, they remain difficult to find.  
-This little online library aims to change that.*
+*Zines about libraries and librarianship are critical resources and exceptionally cool records...they are also hard to track down. This little online zine library is an attempt to bring together a special collection in pursuit of preservation and access. 
 
 ---
 

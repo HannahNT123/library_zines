@@ -72,17 +72,17 @@
 
     footer {
       margin-top: 80px;
-      font-size: 1.3rem;   /* same as subtitle */
+      display: flex;
+      align-items: flex-end; /* KEY LINE: align text to bottom of asterisk */
+      gap: 12px;
+      font-size: 1.3rem;
       line-height: 1.4;
     }
 
     .footnote-star {
-      font-size: 3.5rem;   /* same size as title */
+      font-size: 3.5rem;
       font-weight: bold;
       line-height: 1;
-      display: inline-block;
-      vertical-align: top;
-      margin-right: 8px;
     }
 
     footer a {
@@ -111,10 +111,10 @@
 
 <footer>
   <span class="footnote-star">*</span>
-  For more information about this zine library, visit:
-  <a href="https://github.com/HannahNT123/library_zines/">
+  <span>
+    For more information about this zine library, visit:
     https://github.com/HannahNT123/library_zines/
-  </a>
+  </span>
 </footer>
 
 <script>

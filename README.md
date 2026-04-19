@@ -1,8 +1,12 @@
 # 📚 Zines About Libraries, Librarians, and Librarianship
 
-*Zines about libraries, librarians, and librarianship are critical information resources and exceptionally cool artefacts of personal experience, institutional knowledge production, and historical events...they are also hard to track down. This little online zine library is an experiment in improving access to these particular records.* 
+*Zines about libraries, librarians, and librarianship are critical information resources and exceptionally cool artefacts of personal experience, institutional knowledge production, and historical events...they are also hard to track down. This little online zine library aims to change all that.* 
 
 ---
+
+## 🏫 About this Little Onlie Zine Library ##
+
+
 
 ## 📦 About the Zines Collected Here
 
@@ -17,7 +21,7 @@ The zines in this library are written **by, for, and about libraries, librarians
 
 ## How to Find and Read a Zine
 
-All of the zines brought together in this little online library are housed here, in this Git repository. If you already know what zine you want, or if you are happy to peruse the collection as a long list of file names, you can download any of the zines in this collection by navigating to the zines folder and clicking on a zine folder name.
+If you already know what zine you want, or if you are happy to peruse the collection as a long list of file names, you can download any of the zines in this collection by navigating to the zines folder and clicking on a zine folder name.
 
 If you would like to get to know the collection a little better or search for a zine by subject or visual style:
 
@@ -147,7 +151,4 @@ For academic and research‑oriented work on zines and zine librarianship:
 This group brings together scholarship on zines, alternative publishing, pedagogy, and information studies.
 
 ---
-Zines about libraries and librarianship exist — but without a dedicated retrieval system, they remain difficult to find.  
-This project aims to change that.
 
----

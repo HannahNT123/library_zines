@@ -1,6 +1,6 @@
 # 📚 Zines About Libraries, Librarians, and Librarianship
 
-*Zines about libraries and librarianship are critical resources and exceptionally cool records...they are also hard to track down. This little online zine library is an attempt to bring together a special collection in pursuit of preservation and access.* 
+*Zines about libraries, librarians, and librarianship are critical information resources and exceptionally cool records...they are also hard to track down. This little online zine library is an attempt to bring together a special collection in pursuit of preservation and access.* 
 
 ---
 

@@ -45,13 +45,6 @@ fetch("data/zines.json")
 
     render(zines);
 
-    search.addEventListener("input", e => {
-      const q = e.target.value.toLowerCase();
-      const filtered = zines.filter(z =>
-        z.tags.some(t => t.toLowerCase().includes(q))
-      );
-      render(filtered);
-    });
   });
 </script>
 
@@ -61,10 +54,6 @@ fetch("data/zines.json")
 <p style="margin-bottom:100px; font-size:1.3rem; font-size:1.6rem;">🚀 Click on a cover to download the zine</p>
 
 <input
-  id="search"
-  placeholder="Search by tag…"
-  style="font-size:1.2rem; padding:12px; width:320px; margin-bottom:100px;"
->
 
 <div class="grid">
   <a href="https://raw.githubusercontent.com/HannahNT123/library_zines/main/zines/librarians/ACRL_2015_screen.pdf">

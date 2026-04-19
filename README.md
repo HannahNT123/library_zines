@@ -1,10 +1,10 @@
 # 📚 Zines About Libraries, Librarians, and Librarianship
 
-*Zines about libraries, librarians, and librarianship are critical information resources and exceptionally cool artefacts of personal experience, institutional knowledge production, and historical events...they are also hard to track down. This little online zine library aims to change that.* 
+*Zines about libraries, librarians, and librarianship are critical information resources and exceptionally cool artefacts of personal experience, institutional knowledge production, and historical events...they are also hard to track down. This collection aims to change that.* 
 
 ---
 
-## 🏫 About the Zine Library ##
+## 🏫 About the Collection ##
 
 **This little online library is an experiment in information retrieval.** The goal is to to explore whether or not a Git repository can serve as infrastructure to support the preservation and sharing of zines. 
 

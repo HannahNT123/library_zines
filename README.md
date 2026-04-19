@@ -1,12 +1,13 @@
 # 📚 Zines About Libraries, Librarians, and Librarianship
 
-*A collection brought together to improve access to these resources.*
+*Zines about libraries and librarianship exist — but without a dedicated retrieval system, they remain difficult to find.  
+This little online library aims to change that.*
 
 ---
 
 ## 📦 About the Zines Collected Here
 
-The zines in this library are written **by, for, and about libraries, librarians, librarianship** and the people who love them. The zines collected here include:
+The zines in this library are written **by, for, and about libraries, librarians, librarianship** and the people who love them. Within this collection, you will find:
 
 - resource guides
 - love letters
@@ -15,7 +16,11 @@ The zines in this library are written **by, for, and about libraries, librarians
 - collaborative experimentation
 - fictional representations
 
-This collection exists because these zines *do* exist — but are often scattered, difficult to locate, or entirely invisible within traditional discovery systems.
+## How to Find and Read a Zine
+
+All of the zines brought together in this little online library are housed here, in this Git repository. If you already know what zine you want, or if you are happy to peruse the collection as a long list of file names, you can download any of the zines in this collection by navigating to the zines folder and clicking on a zine folder name.
+
+If you would like to get to know the collection a little better or search for a zine by subject or visual style:
 
 🌐 **Browse the visual zine library:**
 https://hannahnt123.github.io/library_zines/
@@ -40,22 +45,58 @@ At the same time, the structure remains flexible enough to evolve as the collect
 
 ---
 
-## ➕ How to Add a Zine
+## 📨 Add a Zine to the Collection
 
-This library welcomes contributions.
+If you have written a zine about libraries, librarians, or librarianship, **please consider adding your zine to this collection**.
 
-To add a zine:
-1. Create a folder for the zine in the appropriate section
-2. Include:
-   - the zine file (PDF)
-   - a cover image
-   - a metadata file
-3. Use subject terms from the Anchor Archive Zine Subject Thesaurus
-4. Commit and push your changes
+This zine library accepts contributions via **GitHub Issues**.  
+You do **not** need to know Git or submit a pull request to contribute.
 
-If Git is not your thing, submissions can also happen informally through professional and community networks.
+### Step 1: Open a New Zine Submission Issue
 
-This project is guided by the **Zine Librarians Code of Ethics**, which centers care, consent, and accountability.
+1. Go to the **Issues** tab of this repository.
+2. Click **New Issue**.
+3. Select **“Zine Submission”**
+
+This opens a guided form designed to collect the information needed to catalogue your zine.
+
+---
+
+### Step 2: Fill Out the Submission Form
+
+Please provide as much of the following as you can (although if you don't know or don't want to share the information requested, you can choose to leave one or more fields blank):
+
+- **Zine title**
+- **Creator(s)**
+- **Year of publication**
+- **Date of publication**
+- **Brief description**
+- **Relevant tags / subjects**  
+  (for more on tagging see the section on cataloguing in this README)
+- **A link to the zine PDF**  
+- **A cover image**, if available
+- **Any access or reuse notes** 
+
+---
+
+### Step 3: Submit the Issue
+
+Once you submit the issue:
+
+- The maintainer will review the submission
+- The zine will be added to the collection and appear on the public site
+
+You may be contacted in the issue thread if clarification is required.
+
+---
+
+## 🧭 Ethical Commitments
+
+This project is guided by the **Zine Librarians Code of Ethics**. To that end, the zines made availble here have only been gleaned from publicly available online sources. If a creator chooses to include their own work (whether or not it is already available online) in this collection, rest assured that:
+
+- Contributors retain authorship of their work
+- Access and reuse preferences are respected
+- Requests for removal or revision will always be honored
 
 ---
 

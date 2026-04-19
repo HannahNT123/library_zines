@@ -34,7 +34,7 @@ The zines in this library are written **by, for, and about libraries, librarians
 - resource guides
 - love letters
 - personal reflections
-- institutional criticism 
+- institutional critique
 - collaborative experimentation
 - fictional representations
 

@@ -7,8 +7,20 @@
 
   <style>
     body {
-      margin: 80px;
+      margin: 60px 80px;
       font-family: system-ui, sans-serif;
+    }
+
+    nav {
+      position: absolute;
+      top: 30px;
+      right: 80px;
+      font-size: 1rem;
+    }
+
+    nav a {
+      margin-left: 24px;
+      text-decoration: none;
     }
 
     h1 {
@@ -18,7 +30,7 @@
 
     .subtitle {
       font-size: 1.3rem;
-      margin-bottom: 80px; /* space before layout */
+      margin-bottom: 80px;
     }
 
     .layout {
@@ -35,7 +47,7 @@
 
     .tags h2 {
       font-size: 1.1rem;
-      margin-bottom: 16px;
+      margin-bottom: 12px;
     }
 
     .tags button {
@@ -56,7 +68,7 @@
     }
 
     .grid {
-      margin-top: 32px; /* aligns grid top with "Filter by tag" */
+      margin-top: 32px;
       display: grid;
       grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
       gap: 120px;
@@ -74,9 +86,13 @@
 
 <body>
 
-<h1>Zines About Libraries, Librarians, and Librarianship</h1>
-<p><a href="about.html">About this project</a></p>
+<nav>
+  <a href="index.html">Home</a>
+  <a href="about.html">About</a>
+  <a href="contribute.html">Contribute</a>
+</nav>
 
+<h1>Zines About Libraries, Librarians, and Librarianship</h1>
 
 <p class="subtitle">
   🔍 Search for zines using the tags provided. &nbsp;&nbsp;
@@ -118,18 +134,14 @@ fetch("data/zines.json")
         render(zines);
         return;
       }
-
       const filtered = zines.filter(z =>
         [...activeTags].every(t => z.tags.includes(t))
       );
-
       render(filtered);
     }
 
-    // initial render
     render(zines);
 
-    // build tag buttons (ignore empty tags)
     const tags = [...new Set(
       zines.flatMap(z => z.tags).filter(t => t && t.trim())
     )].sort();
@@ -146,7 +158,6 @@ fetch("data/zines.json")
     tags.forEach(tag => {
       const b = document.createElement("button");
       b.textContent = tag;
-
       b.onclick = () => {
         if (activeTags.has(tag)) {
           activeTags.delete(tag);
@@ -157,7 +168,6 @@ fetch("data/zines.json")
         }
         applyFilters();
       };
-
       tagBox.appendChild(b);
     });
   });

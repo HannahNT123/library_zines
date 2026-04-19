@@ -4,47 +4,16 @@
 
 ---
 
-## ✨ About This Zine Library
-
-This repository is an **experimental zine library** dedicated to collecting, describing, and making accessible **zines about libraries, librarians, and librarianship**.
-
-It functions simultaneously as:
-- a **digital zine collection**
-- an **information retrieval experiment**
-- and a **provocation**: what happens when we treat a Git repository as a library?
-
-The scope is intentionally expansive and porous. Alongside zines explicitly about libraries and librarians, you will also find works that engage archival studies, knowledge organization, citation practices, labor, pedagogy, and information work more broadly.
-
----
-
-## ✂️ About Zines
-
-Zines are **self‑published, small‑circulation works** that have long been used to share ideas outside traditional publishing structures.
-
-They are:
-- informal
-- experimental
-- community‑oriented
-- resistant to neutrality
-
-Zines are also **information systems in their own right** — they organize knowledge, surface lived experience, and circulate ideas through networks of care, friendship, and practice.
-
----
-
 ## 📦 About the Zines Collected Here
 
-The zines in this library are:
-- written **by and for librarians and information workers**
-- focused on **libraries, librarianship, and information work**
-- political, pedagogical, reflective, critical, and playful
+The zines in this library are written **by, for, and about libraries, librarians, librarianship** and the people who love them. The zines collected here include:
 
-They include:
-- professional critiques
-- teaching tools
-- ethical frameworks
-- personal narratives
-- calls to action
-- reflections on practice
+- resource guides
+- love letters
+- personal reflections
+- institutional criticism 
+- collaborative experimentation
+- fictional representations
 
 This collection exists because these zines *do* exist — but are often scattered, difficult to locate, or entirely invisible within traditional discovery systems.
 

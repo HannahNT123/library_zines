@@ -1,6 +1,6 @@
 # 📚 Zines About Libraries, Librarians, and Librarianship
 
-*A little online library*
+*A collection brought together to improve access to these resources.*
 
 ---
 

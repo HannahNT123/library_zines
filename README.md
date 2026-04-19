@@ -67,7 +67,7 @@ This opens a guided form designed to collect the information needed to catalogue
 
 ### Step 2: Fill Out the Submission Form
 
-Please provide as much of the following as you can (although if you don't know or don't want to share the information requested, you can choose to leave one or more fields blank):
+Please provide as much of the following as you can. **Keep in mind that if you don't know or don't want to share the information requested, you can choose to leave that field blank:**
 
 - **Zine title**
 - **Creator(s)**
@@ -75,14 +75,14 @@ Please provide as much of the following as you can (although if you don't know o
 - **Date of publication**
 - **Location** in the form of city, region, and country
 - **Language of publication**
-- **File format**
+- **File format** (pdfs are preferred)
 - **Category** (either libraries, librarians, or librarianship)
 - **Relevant tags / subjects** from the Anchor Archive Zine Thesaurus: https://anchorarchive.org/subject-thesaurus/about
 - **License** to indicate when and how the zine can be read and spread
-- **A link to the zine PDF**
+- **A link to the zine**
   (or a note if you would like to provide your zine privately)
 - **Brief description**
-- **A cover image**, if available
+- **A cover image**
 - **Any access or reuse notes** 
 
 ### Step 3: Submit the Issue
@@ -98,7 +98,7 @@ You may be contacted in the issue thread if clarification is required.
 
 ## 🧭 Ethical Commitments
 
-This project is guided by the **Zine Librarians Code of Ethics**. To that end, the zines made availble here have only been gleaned from publicly available online sources. If a creator chooses to include their own work (whether or not it is already available online) in this collection, rest assured that:
+This project is guided by the **Zine Librarians Code of Ethics**. Rest assured that: 
 
 - Contributors retain authorship of their work
 - Access and reuse preferences are respected

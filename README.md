@@ -32,7 +32,7 @@ The zines in this library are written **by, for, and about libraries, librarians
 
 ## How to Find and Read a Zine
 
-If you already know what zine you want, or if you are happy to peruse the collection as a long list of file names, you can download any of the zines in this collection by navigating to the zines folder and clicking on a zine folder name.
+If you already know what zine you want, or if you are happy to peruse the collection as a long list of file names, you can download any of the zines in this collection by navigating to the zines folder, selecting the folder for zines about libraries, librarianship, or librarians and clicking on a zine name.
 
 If you would like to get to know the collection a little better or search for a zine by subject or visual style:
 

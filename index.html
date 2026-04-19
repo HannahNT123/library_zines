@@ -18,11 +18,7 @@
 
     .subtitle {
       font-size: 1.3rem;
-      margin-bottom: 10px;
-    }
-
-    .subtitle:last-of-type {
-      margin-bottom: 80px; /* extra space before tags + grid */
+      margin-bottom: 80px; /* space before layout */
     }
 
     .layout {
@@ -39,7 +35,7 @@
 
     .tags h2 {
       font-size: 1.1rem;
-      margin-bottom: 12px;
+      margin-bottom: 16px;
     }
 
     .tags button {
@@ -60,6 +56,7 @@
     }
 
     .grid {
+      margin-top: 32px; /* aligns grid top with "Filter by tag" */
       display: grid;
       grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
       gap: 120px;
@@ -79,8 +76,10 @@
 
 <h1>Zines About Libraries, Librarians, and Librarianship</h1>
 
-<p class="subtitle">🔍 Search for zines using the tags provided.</p>
-<p class="subtitle">🚀 Click on a cover to download the zine.</p>
+<p class="subtitle">
+  🔍 Search for zines using the tags provided. &nbsp;&nbsp;
+  🚀 Click on a cover to download the zine.
+</p>
 
 <div class="layout">
   <div class="tags" id="tags">

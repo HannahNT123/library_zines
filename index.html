@@ -35,6 +35,13 @@
       padding: 6px 10px;
       font-size: 0.9rem;
       cursor: pointer;
+      border: 1px solid #333;
+      background: white;
+    }
+
+    .tags button.active {
+      background: #333;
+      color: white;
     }
 
     .grid {
@@ -57,7 +64,7 @@
 
 <h1>Zines About Libraries, Librarians, and Librarianship</h1>
 
-<p class="subtitle">🔍 Search for zines using the tags provided.</p>
+<p class="subtitle">🔍 Filter zines by selecting one or more tags.</p>
 <p class="subtitle secondary">🚀 Click on a cover to download the zine.</p>
 
 <div class="tags" id="tags"></div>
@@ -69,6 +76,7 @@ fetch("data/zines.json")
   .then(zines => {
     const grid = document.getElementById("grid");
     const tagBox = document.getElementById("tags");
+    const activeTags = new Set();
 
     function render(list) {
       grid.innerHTML = "";
@@ -84,25 +92,51 @@ fetch("data/zines.json")
       });
     }
 
-    // show everything initially
+    function applyFilters() {
+      if (activeTags.size === 0) {
+        render(zines);
+        return;
+      }
+
+      const filtered = zines.filter(z =>
+        [...activeTags].every(t => z.tags.includes(t))
+      );
+
+      render(filtered);
+    }
+
+    // initial render
     render(zines);
 
-    // build tag buttons (ignore empty tags)
+    // build tag buttons
     const tags = [...new Set(
       zines.flatMap(z => z.tags).filter(t => t && t.trim())
     )].sort();
 
     const reset = document.createElement("button");
     reset.textContent = "Show all";
-    reset.onclick = () => render(zines);
+    reset.onclick = () => {
+      activeTags.clear();
+      document.querySelectorAll(".tags button").forEach(b => b.classList.remove("active"));
+      render(zines);
+    };
     tagBox.appendChild(reset);
 
     tags.forEach(tag => {
       const b = document.createElement("button");
       b.textContent = tag;
+
       b.onclick = () => {
-        render(zines.filter(z => z.tags.includes(tag)));
+        if (activeTags.has(tag)) {
+          activeTags.delete(tag);
+          b.classList.remove("active");
+        } else {
+          activeTags.add(tag);
+          b.classList.add("active");
+        }
+        applyFilters();
       };
+
       tagBox.appendChild(b);
     });
   });

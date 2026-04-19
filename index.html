@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Zines About Libraries, Librarians, and Librarianship</title>
+  <title>Zines About Libraries, Librarians, and Librarianship*</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <style>
@@ -18,17 +18,7 @@
 
     .subtitle {
       font-size: 1.3rem;
-      margin-bottom: 16px;
-    }
-
-    .info {
-      font-size: 1rem;
       margin-bottom: 80px;
-    }
-
-    .info a {
-      text-decoration: underline;
-      color: inherit;
     }
 
     .layout {
@@ -79,22 +69,26 @@
       object-fit: cover;
       display: block;
     }
+
+    footer {
+      margin-top: 120px;
+      font-size: 0.95rem;
+    }
+
+    footer a {
+      text-decoration: underline;
+      color: inherit;
+    }
   </style>
 </head>
 
 <body>
 
-<h1>Zines About Libraries, Librarians, and Librarianship</h1>
+<h1>Zines About Libraries, Librarians, and Librarianship*</h1>
 
 <p class="subtitle">
   🔍 Search for zines using the tags provided. &nbsp;&nbsp;
   🚀 Click on a cover to download the zine.
-</p>
-
-<p class="info">
-  For more information about this zine library and how to contribute a zine,
-  visit the Git repo:
-  <a href="https://github.com/HannahNT123/library_zines/">https://github.com/HannahNT123/library_zines/</a>
 </p>
 
 <div class="layout">
@@ -104,6 +98,13 @@
 
   <div class="grid" id="grid"></div>
 </div>
+
+<footer>
+  * For more information about this zine library and how to contribute a zine, visit:
+  <a href="https://github.com/HannahNT123/library_zines/">
+    https://github.com/HannahNT123/library_zines/
+  </a>
+</footer>
 
 <script>
 fetch("data/zines.json")
@@ -140,10 +141,8 @@ fetch("data/zines.json")
       render(filtered);
     }
 
-    // initial render
     render(zines);
 
-    // build tag buttons (ignore empty tags)
     const tags = [...new Set(
       zines.flatMap(z => z.tags).filter(t => t && t.trim())
     )].sort();

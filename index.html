@@ -23,10 +23,48 @@ body { margin: 80px; font-family: system-ui, sans-serif; }
     }
   </style>
 </head>
+
+<script>
+fetch("data/zines.json")
+  .then(r => r.json())
+  .then(zines => {
+    const grid = document.querySelector(".grid");
+    const search = document.getElementById("search");
+
+    function render(list) {
+      grid.innerHTML = "";
+      list.forEach(z => {
+        const a = document.createElement("a");
+        a.href = "https://raw.githubusercontent.com/HannahNT123/library_zines/main/" + z.pdf;
+        const img = document.createElement("img");
+        img.src = "https://raw.githubusercontent.com/HannahNT123/library_zines/main/" + z.cover;
+        a.appendChild(img);
+        grid.appendChild(a);
+      });
+    }
+
+    render(zines);
+
+    search.addEventListener("input", e => {
+      const q = e.target.value.toLowerCase();
+      const filtered = zines.filter(z =>
+        z.tags.some(t => t.toLowerCase().includes(q))
+      );
+      render(filtered);
+    });
+  });
+</script>
+
 <body>
 
 <h1>Zines About Libraries, Librarians, and Librarianship</h1>
 <p style="margin-bottom:100px; font-size:1.3rem; font-size:1.6rem;">🚀 Click on a cover to download the zine</p>
+
+<input
+  id="search"
+  placeholder="Search by tag…"
+  style="font-size:1.2rem; padding:12px; width:320px; margin-bottom:100px;"
+>
 
 <div class="grid">
   <a href="https://raw.githubusercontent.com/HannahNT123/library_zines/main/zines/librarians/ACRL_2015_screen.pdf">

@@ -4,7 +4,7 @@
 
 ---
 
-## 🏫 About the Collection ##
+## 🗄️ About the Collection ##
 
 **This little online library is an experiment in information retrieval.** The goal is to to explore whether or not a Git repository can serve as infrastructure to support the preservation and sharing of zines. 
 

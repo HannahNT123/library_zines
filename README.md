@@ -13,8 +13,7 @@ A Git repository offers:
 - sustainable online infrastructure
 - decentralized contribution
 - durable URLs
-- low technical barriers
-- alignment with open knowledge practices
+- open knowledge practices and processes
   
 Will that be enough? **Why not browse the collection yourself and see what you think.**
 

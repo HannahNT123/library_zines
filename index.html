@@ -7,18 +7,22 @@
 
   <style>
     body {
-      margin: 60px;
+      margin: 80px;
       font-family: system-ui, sans-serif;
     }
 
     h1 {
       font-size: 3.5rem;
-      margin-bottom: 16px;
+      margin-bottom: 20px;
     }
 
     .subtitle {
       font-size: 1.3rem;
-      margin-bottom: 40px;
+      margin-bottom: 10px;
+    }
+
+    .subtitle:last-of-type {
+      margin-bottom: 80px; /* extra space before tags + grid */
     }
 
     .layout {
@@ -75,9 +79,8 @@
 
 <h1>Zines About Libraries, Librarians, and Librarianship</h1>
 
-<p class="subtitle">
-  🔍 Search for zines using the tags provided. &nbsp; 🚀 Click on a cover to download the zine.
-</p>
+<p class="subtitle">🔍 Search for zines using the tags provided.</p>
+<p class="subtitle">🚀 Click on a cover to download the zine.</p>
 
 <div class="layout">
   <div class="tags" id="tags">
@@ -125,7 +128,7 @@ fetch("data/zines.json")
     // initial render
     render(zines);
 
-    // build tag list (ignore empty tags)
+    // build tag buttons (ignore empty tags)
     const tags = [...new Set(
       zines.flatMap(z => z.tags).filter(t => t && t.trim())
     )].sort();

@@ -15,11 +15,19 @@ A Git repository offers:
 - low technical barriers
 - alignment with open knowledge practices
   
-Will that be enough? Only time will tell.
+Will that be enough? **Why not browse the collection yourself and see what you think.**
 
 ---
 
-## 📦 About the Zines Collected Here
+## 🌐 Browse the Collection
+
+To peruse the zines in our collection and download a zine to read, visit: 
+
+**https://hannahnt123.github.io/library_zines/**
+
+---
+
+## 📦 About the Zines in this Collection
 
 The zines in this library are written **by, for, and about libraries, librarians, librarianship** and the people who love them. Within this collection, you will find:
 
@@ -30,16 +38,6 @@ The zines in this library are written **by, for, and about libraries, librarians
 - collaborative experimentation
 - fictional representations
 
-## How to Find and Read a Zine
-
-If you already know what zine you want, or if you are happy to peruse the collection as a long list of file names, you can download any of the zines in this collection by navigating to the zines folder, selecting the folder for zines about libraries, librarianship, or librarians and clicking on a zine name.
-
-If you would like to get to know the collection a little better or search for a zine by subject or visual style:
-
-🌐 **Browse the zine library:**
-https://hannahnt123.github.io/library_zines/
-
----
 
 ## 🗂️ How These Zines Were Catalogued
 

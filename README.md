@@ -98,60 +98,9 @@ You may be contacted in the issue thread if clarification is required.
 
 ## 🧭 Ethical Commitments
 
-This project is guided by the **Zine Librarians Code of Ethics**. Rest assured that: 
+This project is guided by the **Zine Librarians Code of Ethics**. To that end, please rest assured that: 
 
 - Contributors retain authorship of their work
 - Access and reuse preferences are respected
 - Requests for removal or revision will always be honored
-
----
-
-## 🧠 Why a Git Repository as a Library?
-
-Using GitHub as a library is a **deliberate design choice**.
-
-A Git repository offers:
-- transparent version history
-- decentralized contribution
-- durable URLs
-- low technical barriers
-- alignment with open knowledge practices
-
-This approach asks:
-- What counts as library infrastructure?
-- Where does information retrieval happen?
-- Who gets to build and maintain systems of access?
-
-Here, the repository *is* the catalog, the stacks, and the record all at once.
-
----
-
-## 🔗 Resources for Accessing Zines
-
-Looking for more zines or zine libraries? Start here:
-
-- **Zine Libraries Info**  
-  https://www.zinelibraries.info/
-
-- **Sherwood Forest Zine Library – Virtual Library**  
-  https://www.sherwoodforestzinelibrary.org/virtual-zine-library-recently-added
-
-- **ALA / ACRL – Keeping Up With Zines**  
-  https://www.ala.org/acrl/publications/keeping_up_with/zines
-
-- **Papercut Zine Library – Virtual Library**  
-  https://www.papercutzinelibrary.com/virtual-library
-
----
-
-## 🎓 Scholarly Links to Zines
-
-For academic and research‑oriented work on zines and zine librarianship:
-
-- **Zine Studies Zotero Group**  
-  https://www.zotero.org/groups/252454/zine_studies
-
-This group brings together scholarship on zines, alternative publishing, pedagogy, and information studies.
-
----
 

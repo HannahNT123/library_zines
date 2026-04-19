@@ -1,0 +1,94 @@
+name: Zine Submission
+description: Submit a zine for inclusion in the zine library
+title: "Zine submission: "
+labels: ["zine submission"]
+
+body:
+  - type: input
+    id: title
+    attributes:
+      label: Zine title
+    validations:
+      required: true
+
+  - type: input
+    id: creators
+    attributes:
+      label: Creator(s)
+    validations:
+      required: true
+
+  - type: input
+    id: year
+    attributes:
+      label: Year of publication
+
+  - type: input
+    id: date
+    attributes:
+      label: Date of publication
+      description: If known (YYYY-MM-DD)
+
+  - type: input
+    id: location
+    attributes:
+      label: Location of publication
+      description: City, region/state, country
+
+  - type: input
+    id: language
+    attributes:
+      label: Language of publication
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Libraries
+        - Librarians
+        - Librarianship
+    validations:
+      required: true
+
+  - type: textarea
+    id: tags
+    attributes:
+      label: Relevant tags / subjects
+      description: >
+        Please suggest tags from the Anchor Archive Zine Subject Thesaurus:
+        https://anchorarchive.org/subject-thesaurus/about
+
+  - type: dropdown
+    id: license
+    attributes:
+      label: License / reuse information
+      options:
+        - All rights reserved
+        - Creative Commons (please specify below)
+        - Public domain
+        - Other / unsure
+
+  - type: input
+    id: link
+    attributes:
+      label: Link to the zine
+      description: URL to the zine, or note if you prefer to share it privately
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Brief description
+    validations:
+      required: true
+
+  - type: input
+    id: cover
+    attributes:
+      label: Cover image
+      description: Link to an image file, if available
+
+  - type: textarea
+    id: access
+    attributes:
+      label: Access or reuse notes

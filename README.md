@@ -15,10 +15,9 @@ A Git repository offers:
 - low technical barriers
 - alignment with open knowledge practices
   
-Of course, there are drawbacks to using Git:
-- sustainable online infrastructure
+Will that be enough? Only time will tell.
 
-
+---
 
 ## 📦 About the Zines Collected Here
 

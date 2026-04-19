@@ -26,6 +26,8 @@
     }
 
     .tags button {
+      font-size: 0.9rem;
+      padding: 6px 10px;
       margin: 6px;
       padding: 8px 14px;
       font-size: 1rem;
@@ -81,7 +83,7 @@ fetch("data/zines.json")
     render(zines);
 
     // Build tag buttons
-    const tags = [...new Set(zines.flatMap(z => z.tags))].sort();
+    const tags = [...new Set(zines.flatMap(z => z.tags).filter(t => t const tags = [...new Set(zines.flatMap(z => z.tags))]const tags = [...new Set(zines.flatMap(z => z.tags))] t.trim()))].sort();
 
     const reset = document.createElement("button");
     reset.textContent = "Show all";

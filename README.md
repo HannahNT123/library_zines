@@ -38,12 +38,7 @@ The zines in this library are written **by, for, and about libraries, librarians
 - collaborative experimentation
 - fictional representations
 
-
-## 🗂️ How These Zines Were Catalogued
-
-The zines in this little online library are maintained in their own folders, which contain the zine itself, a metadata file, and a cover image. 
-
-The metadata collected for each zine includes subject tags to help users identify zines they might be interested in. 
+### 🗂️ How These Zines Were Catalogued
 
 **This collection draws on Anchor Archive’s Zine Subject Thesaurus for the controlled vocabulary used to tag each zine**
 
@@ -68,8 +63,6 @@ You do **not** need to know Git or submit a pull request to contribute.
 
 This opens a guided form designed to collect the information needed to catalogue your zine.
 
----
-
 ### Step 2: Fill Out the Submission Form
 
 Please provide as much of the following as you can (although if you don't know or don't want to share the information requested, you can choose to leave one or more fields blank):
@@ -78,14 +71,17 @@ Please provide as much of the following as you can (although if you don't know o
 - **Creator(s)**
 - **Year of publication**
 - **Date of publication**
+- **Location** in the form of city, region, and country
+- **Language of publication**
+- **File format**
+- **Category** (either libraries, librarians, or librarianship)
+- **Relevant tags / subjects** from the Anchor Archive Zine Thesaurus: https://anchorarchive.org/subject-thesaurus/about
+- **License** to indicate when and how the zine can be read and spread
+- **A link to the zine PDF**
+  (or a note if you would like to provide your zine privately)
 - **Brief description**
-- **Relevant tags / subjects**  
-  (for more on tagging see the section on cataloguing in this README)
-- **A link to the zine PDF**  
 - **A cover image**, if available
 - **Any access or reuse notes** 
-
----
 
 ### Step 3: Submit the Issue
 

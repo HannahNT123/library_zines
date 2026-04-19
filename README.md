@@ -6,7 +6,7 @@
 
 ## 🏫 About the Zine Library ##
 
-**This little online library is an experiment in information retrieval.** The goal is to to explore whether or not a Git repository can serve as infrastructure that will support the preservation and sharing of zines. 
+**This little online library is an experiment in information retrieval.** The goal is to to explore whether or not a Git repository can serve as infrastructure to support the preservation and sharing of zines. 
 
 A Git repository offers:
 - sustainable online infrastructure

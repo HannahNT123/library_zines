@@ -26,10 +26,6 @@
       margin-bottom: 60px;
     }
 
-    .subtitle.secondary a {
-      text-decoration: underline;
-    }
-
     .tags {
       margin-bottom: 80px;
     }
@@ -62,12 +58,7 @@
 <h1>Zines About Libraries, Librarians, and Librarianship</h1>
 
 <p class="subtitle">🔍 Search for zines using the tags provided.</p>
-<p class="subtitle secondary">
-  For more information on how zines are tagged, visit the
-  <a href="https://github.com/HannahNT123/library_zines" target="_blank">
-    GitHub repository for this project
-  </a>.
-</p>
+<p class="subtitle secondary">🚀 Click on a cover to download the zine.</p>
 
 <div class="tags" id="tags"></div>
 <div class="grid" id="grid"></div>
@@ -93,10 +84,10 @@ fetch("data/zines.json")
       });
     }
 
-    // Show all initially
+    // show everything initially
     render(zines);
 
-    // Build tag buttons (filter empty tags)
+    // build tag buttons (ignore empty tags)
     const tags = [...new Set(
       zines.flatMap(z => z.tags).filter(t => t && t.trim())
     )].sort();

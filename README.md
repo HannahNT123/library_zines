@@ -21,7 +21,7 @@ Will that be enough? **Why not browse the collection yourself and see what you t
 
 ## 🌐 Browse the Collection
 
-To peruse the zines in our collection and download a zine to read, visit: 
+To peruse the zines in this collection and download a zine to read, visit: 
 
 **https://hannahnt123.github.io/library_zines/**
 

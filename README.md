@@ -98,7 +98,7 @@ You may be contacted in the issue thread if clarification is required.
 
 ## 🐙 Ethical Commitments
 
-This project is guided by the **Zine Librarians Code of Ethics**. To that end, please rest assured that: 
+This project is guided by the **Zine Librarians Code of Ethics**. All of the zines you will find here were either sourced from public, online zine libraries or submitted directly by their creators. Regardless of how the zines ended up here, please rest assured that: 
 
 - Contributors retain authorship of their work
 - Access and reuse preferences are respected

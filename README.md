@@ -117,4 +117,4 @@ The zines in this collection were sourced from a number of online repositories, 
 -  https://digitalcollections.library.miami.edu/digital/collection/zines/
 -  https://www.loc.gov/collections/zine-web-archive/
 
-This project is deeply indebted to, in awe of, and in community with all of the incredible zinesters and zine librarians who have made this work, shared it, and made possible new ways to preserve and access it.
+**This project is deeply indebted to, in awe of, and in community with all of the incredible zinesters and zine librarians who have made possible the zines you will find here as well as new ways to access and share them.**

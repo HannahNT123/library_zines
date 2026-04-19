@@ -4,7 +4,7 @@
 
 ---
 
-## 🏫 About this Little Online Zine Library ##
+## 🏫 About the Zine Library ##
 
 This little online library is an experiment in information retrieval architecture. The goal is to to explore whether or not a Git repository can serve as library infrastructure. 
 

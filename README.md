@@ -104,3 +104,17 @@ This project is guided by the **Zine Librarians Code of Ethics**. All of the zin
 - Access and reuse preferences are respected
 - Requests for removal or revision will always be honored
 
+---
+
+## Source Material
+
+The zines in this collection were sourced from a number of online repositories, including:
+
+-  https://www.ala.org/gncrt/community-zine-project-digital-archive
+-  https://www.zinelibraries.info/
+-  https://www.sherwoodforestzinelibrary.org/virtual-zine-library-recently-added
+-  https://zinebakery.com/
+-  https://digitalcollections.library.miami.edu/digital/collection/zines/
+-  https://www.loc.gov/collections/zine-web-archive/
+
+This project is deeply indebted to, in awe of, and in community with all of the incredible zinesters and zine librarians who have made this work, shared it, and made possible new ways to preserve and access it.

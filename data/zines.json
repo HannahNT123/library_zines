@@ -1,0 +1,754 @@
+[
+  {
+    "title": "Two-Fisted Library Stories #9: Weird Library-Science",
+    "tags": [
+      "librarians",
+      "libraries",
+      "library and information science",
+      "fiction"
+    ],
+    "pdf": "zines/libraries/TFLS_Weird_Library_Science/TFLS_Weird_Library_Science.pdf",
+    "cover": "zines/libraries/TFLS_Weird_Library_Science/cover.jpg"
+  },
+  {
+    "title": "Banned Books",
+    "tags": [
+      "libraries",
+      "library and information science",
+      "zines",
+      "zine resources",
+      "American politics",
+      "politics",
+      "censorship"
+    ],
+    "pdf": "zines/libraries/Banned_Books/Banned_Books.pdf",
+    "cover": "zines/libraries/Banned_Books/cover.jpg"
+  },
+  {
+    "title": "Two-Fisted Library Stories #7: Spicy Library Stories",
+    "tags": [
+      "librarians",
+      "libraries",
+      "library and information science",
+      "fiction"
+    ],
+    "pdf": "zines/libraries/TFLS-Spicy_Library_Stories/TFLS-Spicy_Library_Stories.pdf",
+    "cover": "zines/libraries/TFLS-Spicy_Library_Stories/cover.jpg"
+  },
+  {
+    "title": "Zine Libraries",
+    "tags": [
+      "zine libraries",
+      "libraries",
+      "library and information science",
+      "zines",
+      "zine resources"
+    ],
+    "pdf": "zines/libraries/zine_libraries/Zine_Libraries.pdf",
+    "cover": "zines/libraries/zine_libraries/cover.jpg"
+  },
+  {
+    "title": "Two-Fisted Library Stories #10: Startling Library Stories",
+    "tags": [
+      "libraries",
+      "library and information science",
+      "fiction"
+    ],
+    "pdf": "zines/libraries/TFLS_Startling_Library_Stories/TFLS_Startling_Library_Stories.pdf",
+    "cover": "zines/libraries/TFLS_Startling_Library_Stories/cover.jpg"
+  },
+  {
+    "title": "Barnard Zine Library",
+    "tags": [
+      "libraries",
+      "library and information science",
+      "zine libraries",
+      "zines",
+      "reading"
+    ],
+    "pdf": "zines/libraries/Barnards_Zine_Library/Barnards_Zine_Library.pdf",
+    "cover": "zines/libraries/Barnards_Zine_Library/cover.jpg"
+  },
+  {
+    "title": "An Ode to a Broken Vending Machine at the PSU Library Occupation",
+    "tags": [
+      null,
+      "libraries",
+      "library and information science",
+      "politics",
+      "activism"
+    ],
+    "pdf": "zines/libraries/Ode_to_a_Broken_Vending_Machine/Ode_to_a_Broken_Vending_Machine.pdf",
+    "cover": "zines/libraries/Ode_to_a_Broken_Vending_Machine/cover.jpg"
+  },
+  {
+    "title": "Not So Fine: A Practical Guide to Becoming a Fine-Free Library",
+    "tags": [
+      "libraries",
+      "library and information science",
+      "economics"
+    ],
+    "pdf": "zines/libraries/Not_So_Fine_A_Practical Guide to Becoming a Fine-Free Library/Not_So_Fine_A_Practical Guide to Becoming a Fine-Free Library.pdf",
+    "cover": "zines/libraries/Not_So_Fine_A_Practical Guide to Becoming a Fine-Free Library/cover.jpg"
+  },
+  {
+    "title": "The People and the Library",
+    "tags": [
+      "librarians",
+      "libraries",
+      "library and information science",
+      "politics",
+      "activism"
+    ],
+    "pdf": "zines/libraries/The_People_and_the_Library/The_People_and_the_Library.pdf",
+    "cover": "zines/libraries/The_People_and_the_Library/cover.jpg"
+  },
+  {
+    "title": "How to Help Your Library",
+    "tags": [
+      "libraries",
+      "library and information science",
+      "zines",
+      "politics",
+      "censorship",
+      "activism"
+    ],
+    "pdf": "zines/libraries/How_to_Help_Your_Library/How_to_Help_Your_Library.pdf",
+    "cover": "zines/libraries/How_to_Help_Your_Library/cover.jpg"
+  },
+  {
+    "title": "Prisoner's Books at the Nablus Public Library",
+    "tags": [
+      "libraries",
+      "library and information science",
+      "archives",
+      "books",
+      "prisoners",
+      "political prisoners",
+      "prisoners of war"
+    ],
+    "pdf": "zines/libraries/Prisoners_Books/Prisoners_Books.pdf",
+    "cover": "zines/libraries/Prisoners_Books/cover.jpg"
+  },
+  {
+    "title": "The Good Pets of UVA Library",
+    "tags": [
+      "libraries",
+      "library and information science",
+      "librarians",
+      "pets"
+    ],
+    "pdf": "zines/libraries/Good_Pets_of_UVA_Library/Good_Pets_of_UVA_Library.pdf",
+    "cover": "zines/libraries/Good_Pets_of_UVA_Library/cover.jpg"
+  },
+  {
+    "title": "Sorting It Out: Behind the Scenes at the Library",
+    "tags": [
+      "libraries",
+      "library and information science",
+      "comics",
+      "librarians"
+    ],
+    "pdf": "zines/libraries/Sorting_it_Out/Sorting_it_Out.pdf",
+    "cover": "zines/libraries/Sorting_it_Out/cover.jpg"
+  },
+  {
+    "title": "Our Library Crushes",
+    "tags": [
+      "librarians",
+      "library and information science",
+      "libraries",
+      "crushes",
+      "love"
+    ],
+    "pdf": "zines/libraries/Our_Library_Crushes/Our_Library_Crushes.pdf",
+    "cover": "zines/libraries/Our_Library_Crushes/cover.jpg"
+  },
+  {
+    "title": "So You Want to Bomb a Library? Don't Do That.",
+    "tags": [
+      "libraries",
+      "library and information science",
+      "books",
+      "terrorism"
+    ],
+    "pdf": "zines/libraries/So_You_Want_To/So_You_Want_To.pdf",
+    "cover": "zines/libraries/So_You_Want_To/cover.jpg"
+  },
+  {
+    "title": "Arrested at the Library: Policing the Stacks",
+    "tags": [
+      "libraries",
+      "library and information science",
+      "police",
+      "police abolition",
+      "Black liberation",
+      "surveillance"
+    ],
+    "pdf": "zines/libraries/Arrested_at_the_Library/Arrested_at_the_Library.pdf",
+    "cover": "zines/libraries/Arrested_at_the_Library/cover.jpg"
+  },
+  {
+    "title": "Banned by Shame",
+    "tags": [
+      "libraries",
+      "library and information science",
+      "graphic novels",
+      "censorship",
+      "comics",
+      "zines",
+      "reading"
+    ],
+    "pdf": "zines/libraries/Banned_by_Shame/Banned_by_Shame.pdf",
+    "cover": "zines/libraries/Banned_by_Shame/cover.jpg"
+  },
+  {
+    "title": "Two-Fisted Library Stories #8",
+    "tags": [
+      "librarians",
+      "libraries",
+      "library and information science",
+      "fiction"
+    ],
+    "pdf": "zines/libraries/TFLS_Two-Fisted_Library_Stories/TFLS_Two-Fisted_Library_Stories.pdf",
+    "cover": "zines/libraries/TFLS_Two-Fisted_Library_Stories/cover.jpg"
+  },
+  {
+    "title": "Shh! Queers in Libraries",
+    "tags": [
+      "libraries",
+      "library and information science",
+      "queer"
+    ],
+    "pdf": "zines/libraries/Shh_Queers_in_Libraries/Shh_Queers_in_Libraries.pdf",
+    "cover": "zines/libraries/Shh_Queers_in_Libraries/cover.jpg"
+  },
+  {
+    "title": "Catalogues & Cardigans: A Library RPG Zine",
+    "tags": [
+      "libraries",
+      "library and information science",
+      "games",
+      "fiction"
+    ],
+    "pdf": "zines/libraries/Catalogues_and_Cardigans/Catalogues_and_Cardigans.pdf",
+    "cover": "zines/libraries/Catalogues_and_Cardigans/cover.jpg"
+  },
+  {
+    "title": "Feel Free: A Field Guide for Dealing with Feelings at Your Local Library",
+    "tags": [
+      "librarians",
+      "libraries",
+      "library and information science",
+      "emotions",
+      "emotional labor"
+    ],
+    "pdf": "zines/libraries/Feel_Free/Feel_Free.pdf",
+    "cover": "zines/libraries/Feel_Free/cover.jpg"
+  },
+  {
+    "title": "",
+    "tags": [
+      "libraries",
+      "library and information science",
+      "punk"
+    ],
+    "pdf": "zines/libraries/Libraries_are_punk/Libraries_are_Punk.pdf",
+    "cover": "zines/libraries/Libraries_are_punk/cover.jpg"
+  },
+  {
+    "title": "Book Banning is just another form of Bullying",
+    "tags": [
+      "libraries",
+      "library and information science",
+      "reading",
+      "censorship",
+      "politics",
+      "bullying",
+      "comics",
+      "DIY comics",
+      "activism"
+    ],
+    "pdf": "zines/libraries/Book_Banning_is_Bullying/Book_Banning_is_Bullying.pdf",
+    "cover": "zines/libraries/Book_Banning_is_Bullying/cover.jpg"
+  },
+  {
+    "title": "Don't Panic",
+    "tags": [
+      "librarians",
+      "libraries",
+      "library and information science",
+      "zines",
+      "comics",
+      "censorship"
+    ],
+    "pdf": "zines/librarianship/Don't_Panic/Don't_Panic.pdf",
+    "cover": "zines/librarianship/Don't_Panic/cover.jpg"
+  },
+  {
+    "title": "Don't Say Banned",
+    "tags": [
+      "librarians",
+      "libraries",
+      "library and information science",
+      "censorship",
+      "queer",
+      "trans",
+      "activism",
+      "American politics",
+      "politics"
+    ],
+    "pdf": "zines/librarianship/Don't_Say_Banned/Don't_Say_Banned.pdf",
+    "cover": "zines/librarianship/Don't_Say_Banned/cover.jpg"
+  },
+  {
+    "title": "Disorientation Guide to Librarianship",
+    "tags": [
+      "librarians",
+      "libraries",
+      "library and information science",
+      "zines",
+      "zine resources"
+    ],
+    "pdf": "zines/librarianship/Disorientation_Guide_to_Librarianship/Disorientation_Guide_to_Librarianship.pdf",
+    "cover": "zines/librarianship/Disorientation_Guide_to_Librarianship/cover.jpg"
+  },
+  {
+    "title": "Maximum Preservation 2",
+    "tags": [
+      "librarians",
+      "libraries",
+      "technology",
+      "archives"
+    ],
+    "pdf": "zines/librarianship/Maximum_Preservation_2/Maximum_Preservation_2.pdf",
+    "cover": "zines/librarianship/Maximum_Preservation_2/cover.jpg"
+  },
+  {
+    "title": "Ranganathan's Five Laws in the Shadows of Genocide",
+    "tags": [
+      "libraries",
+      "library and information science",
+      "librarians",
+      "Palestine",
+      "genocide",
+      "archives",
+      "war",
+      "Israeli occupation of Palestine"
+    ],
+    "pdf": "zines/librarianship/Ranganathan's_Five_Laws_in_the_Shadows_of_Genocide/Ranganathan's_Five_Laws_in_the_Shadows_of_Genocide.pdf",
+    "cover": "zines/librarianship/Ranganathan's_Five_Laws_in_the_Shadows_of_Genocide/cover.jpg"
+  },
+  {
+    "title": "Zinecore",
+    "tags": [
+      "zine libraries",
+      "libraries",
+      "librarians",
+      "library and information science",
+      "zines",
+      "zine resources",
+      "archives"
+    ],
+    "pdf": "zines/librarianship/ZineCore/ZineCore.pdf",
+    "cover": "zines/librarianship/ZineCore/cover.jpg"
+  },
+  {
+    "title": "The Little Book of Book Banner Blunders",
+    "tags": [
+      "librarians",
+      "libraries",
+      "library and information science",
+      "censorship",
+      "politics",
+      "activism"
+    ],
+    "pdf": "zines/librarianship/The_Little_Book_of_Book_Banner_Blunders/The_Little_Book_of_Book_Banner_Blunders.pdf",
+    "cover": "zines/librarianship/The_Little_Book_of_Book_Banner_Blunders/cover.jpg"
+  },
+  {
+    "title": "Look! It's the Rubenstein Library Processing Manual",
+    "tags": [
+      "librarians",
+      "libraries",
+      "library and information science",
+      "archives"
+    ],
+    "pdf": "zines/librarianship/Rubenstein_Processing_Zine/Rubenstein_Processing_Zine.pdf",
+    "cover": "zines/librarianship/Rubenstein_Processing_Zine/cover.jpg"
+  },
+  {
+    "title": "Zine Librarians Code of Ethics Zine",
+    "tags": [
+      "ethical consumption",
+      "zine libraries",
+      "libraries",
+      "librarians",
+      "library and information science",
+      "zines",
+      "zine resources",
+      "archives"
+    ],
+    "pdf": "zines/librarianship/zine_librarians_code_of_ethics/ZineLibrariansCodeofEthics.pdf",
+    "cover": "zines/librarianship/zine_librarians_code_of_ethics/cover.jpg"
+  },
+  {
+    "title": "Zine Libraries",
+    "tags": [
+      "zine libraries",
+      "libraries",
+      "library and information science",
+      "zines",
+      "zine resources"
+    ],
+    "pdf": "zines/librarianship/Zines_in_Libraries/Zines_In_Libraries.pdf",
+    "cover": "zines/librarianship/Zines_in_Libraries/cover.jpg"
+  },
+  {
+    "title": "Two-Fisted Librarians, Issue 3",
+    "tags": [
+      "librarians",
+      "libraries",
+      "library and information science",
+      "comics",
+      "fiction"
+    ],
+    "pdf": "zines/librarians/TFLS_Two-Fisted_Librarians_3/TFLS_Two-Fisted_Librarians_3.pdf",
+    "cover": "zines/librarians/TFLS_Two-Fisted_Librarians_3/cover.jpg"
+  },
+  {
+    "title": "Two-Fisted Librarians, Issue 4",
+    "tags": [
+      "librarians",
+      "libraries",
+      "library and information science",
+      "comics",
+      "fiction"
+    ],
+    "pdf": "zines/librarians/TFLS_Two-Fisted_Librarians_4/TFLS_Two-Fisted_Librarians_4.pdf",
+    "cover": "zines/librarians/TFLS_Two-Fisted_Librarians_4/cover.jpg"
+  },
+  {
+    "title": "Two-Fisted Librarians, Issue 5",
+    "tags": [
+      "librarians",
+      "libraries",
+      "library and information science",
+      "comics",
+      "fiction"
+    ],
+    "pdf": "zines/librarians/TFLS_Two-Fisted_Librarians_5/TFLS_Two-Fisted_Librarians_5.pdf",
+    "cover": "zines/librarians/TFLS_Two-Fisted_Librarians_5/cover.jpg"
+  },
+  {
+    "title": "Two-Fisted Librarians, Issue 2",
+    "tags": [
+      "librarians",
+      "libraries",
+      "comics",
+      "fiction"
+    ],
+    "pdf": "zines/librarians/TFLS_Two-Fisted_Librarians_2/TFLS_Two-Fisted_Librarians_2.pdf",
+    "cover": "zines/librarians/TFLS_Two-Fisted_Librarians_2/cover.jpg"
+  },
+  {
+    "title": "Collaborative Zine Part 2",
+    "tags": [
+      "librarians",
+      "libraries",
+      "library and information science",
+      "zines",
+      "zine resources"
+    ],
+    "pdf": "zines/librarians/ALA_2025_part-2_print/ALA_2025_part-2_print.pdf",
+    "cover": "zines/librarians/ALA_2025_part-2_print/cover.jpg"
+  },
+  {
+    "title": "Zine Pavilion",
+    "tags": [
+      "librarians",
+      "libraries",
+      "library and information science",
+      "zines",
+      "zine resources"
+    ],
+    "pdf": "zines/librarians/ALA_2023_print/ALA_2023_print.pdf",
+    "cover": "zines/librarians/ALA_2023_print/cover.jpg"
+  },
+  {
+    "title": "A Preliminary Report from Librarians and Archivists with Palestine",
+    "tags": [
+      "archives",
+      "libraries",
+      "library and information science",
+      "Palestine",
+      "Palestinian solidarity",
+      "Palestinian liberation",
+      "Israeli occupation of Palestine",
+      "war",
+      "museums"
+    ],
+    "pdf": "zines/librarians/A_Preliminary_Report_from_Librarians_and_Archivists_with_Palestine/A_Preliminary_Report_from_Librarians_and_Archivists_with_Palestine.pdf",
+    "cover": "zines/librarians/A_Preliminary_Report_from_Librarians_and_Archivists_with_Palestine/cover.jpg"
+  },
+  {
+    "title": "Caution: The True Story of an Almost Book Ban",
+    "tags": [
+      "librarians",
+      "libraries",
+      "library and information science",
+      "comics",
+      "censorship",
+      "politics",
+      "activism"
+    ],
+    "pdf": "zines/librarians/Caution/Caution.pdf",
+    "cover": "zines/librarians/Caution/cover.jpg"
+  },
+  {
+    "title": "Collaborative Zine",
+    "tags": [
+      "librarians",
+      "libraries",
+      "library and information science",
+      "zines",
+      "zine resources"
+    ],
+    "pdf": "zines/librarians/ALA_2018_screen/ALA_2018_screen.pdf",
+    "cover": "zines/librarians/ALA_2018_screen/cover.jpg"
+  },
+  {
+    "title": "Zine Pavilion",
+    "tags": [
+      "librarians",
+      "libraries",
+      "library and information science",
+      "zines",
+      "zine resources"
+    ],
+    "pdf": "zines/librarians/ALA_2024_print/ALA_2024_print.pdf",
+    "cover": "zines/librarians/ALA_2024_print/cover.jpg"
+  },
+  {
+    "title": "The Zine Pavilion at ALA 2019",
+    "tags": [
+      "librarians",
+      "libraries",
+      "library and information science",
+      "zines",
+      "zine resources"
+    ],
+    "pdf": "zines/librarians/ALA_2019_print/ALA_2019_print.pdf",
+    "cover": "zines/librarians/ALA_2019_print/cover.jpg"
+  },
+  {
+    "title": "Collaborative Zine Part 1",
+    "tags": [
+      "librarians",
+      "libraries",
+      "library and information science",
+      "zines",
+      "zine resources"
+    ],
+    "pdf": "zines/librarians/ALA_2025_part-1_print/ALA_2025_part-1_print.pdf",
+    "cover": "zines/librarians/ALA_2025_part-1_print/cover.jpg"
+  },
+  {
+    "title": "2017 Comic Jam",
+    "tags": [
+      "librarians",
+      "libraries",
+      "library and information science",
+      "zines",
+      "zine resources",
+      "comics",
+      "DIY comics"
+    ],
+    "pdf": "zines/librarians/ALA_2017_comic_screen/ALA_2017_comic_screen.pdf",
+    "cover": "zines/librarians/ALA_2017_comic_screen/cover.jpg"
+  },
+  {
+    "title": "Librarians Save Lives",
+    "tags": [
+      "librarians",
+      "libraries",
+      "library and information science",
+      "censorship",
+      "trans",
+      "queer",
+      "activism"
+    ],
+    "pdf": "zines/librarians/Librarians_Save_Lives/Librarians_Save_Lives.pdf",
+    "cover": "zines/librarians/Librarians_Save_Lives/cover.jpg"
+  },
+  {
+    "title": "American Library Association Comic Jam 2018",
+    "tags": [
+      "librarians",
+      "libraries",
+      "library and information science",
+      "zines",
+      "zine resources",
+      "comics",
+      "DIY comics"
+    ],
+    "pdf": "zines/librarians/ALA_2018_comic-screen/ALA_2018_comic-screen.pdf",
+    "cover": "zines/librarians/ALA_2018_comic-screen/cover.jpg"
+  },
+  {
+    "title": "Collaborative Zine volume. 2",
+    "tags": [
+      "librarians",
+      "libraries",
+      "library and information science",
+      "zines",
+      "zine resources"
+    ],
+    "pdf": "zines/librarians/ALA_2022-Vol2_print/ALA_2022-Vol2_print.pdf",
+    "cover": "zines/librarians/ALA_2022-Vol2_print/cover.jpg"
+  },
+  {
+    "title": "A Librarian Against AI; or, I  Think AI Should Leave",
+    "tags": [
+      "libraries",
+      "library and information science",
+      "librarians",
+      "technology",
+      "computers"
+    ],
+    "pdf": "zines/librarians/A_Librarian_Against_AI/A_Librarian_Against_AI.pdf",
+    "cover": "zines/librarians/A_Librarian_Against_AI/cover.jpg"
+  },
+  {
+    "title": "I Survived",
+    "tags": [
+      "libraries",
+      "librarians",
+      "library and information science",
+      "zines"
+    ],
+    "pdf": "zines/librarians/ALA_2014_I_Survived/ALA_2014_I_Survived.pdf",
+    "cover": "zines/librarians/ALA_2014_I_Survived/cover.jpg"
+  },
+  {
+    "title": "Collaborative Zine Make A Page",
+    "tags": [
+      "librarians",
+      "libraries",
+      "library and information science",
+      "zines",
+      "zine resources"
+    ],
+    "pdf": "zines/librarians/ALA_2017_screen/ALA_2017_screen.pdf",
+    "cover": "zines/librarians/ALA_2017_screen/cover.jpg"
+  },
+  {
+    "title": "Two-Fisted Librarians",
+    "tags": [
+      "librarians",
+      "libraries",
+      "comics",
+      "fiction"
+    ],
+    "pdf": "zines/librarians/TFLS_Two-Fisted_Librarians_1/TFLS_Two-Fisted_Librarians_1.pdf",
+    "cover": "zines/librarians/TFLS_Two-Fisted_Librarians_1/cover.jpg"
+  },
+  {
+    "title": "Two-Fisted Library Stories, Issue 6",
+    "tags": [
+      "librarians",
+      "libraries",
+      "library and information science",
+      "comics",
+      "fiction"
+    ],
+    "pdf": "zines/librarians/TFLS_Two-Fisted_Librarians_6/TFLS_Two-Fisted_Librarians_6.pdf",
+    "cover": "zines/librarians/TFLS_Two-Fisted_Librarians_6/cover.jpg"
+  },
+  {
+    "title": "Library Super Hero",
+    "tags": [
+      "librarians",
+      "libraries",
+      "library and information science",
+      "queer",
+      "trans",
+      "censorship"
+    ],
+    "pdf": "zines/librarians/Library_SuperHero/Library_SuperHero.pdf",
+    "cover": "zines/librarians/Library_SuperHero/cover.jpg"
+  },
+  {
+    "title": "The Zine Pavilion at ALA 2015",
+    "tags": [
+      "librarians",
+      "libraries",
+      "library and information science",
+      "zines",
+      "zine resources"
+    ],
+    "pdf": "zines/librarians/ALA_2015_screen/ALA_2015_screen.pdf",
+    "cover": "zines/librarians/ALA_2015_screen/cover.jpg"
+  },
+  {
+    "title": "Librarians and Archivists to Palestine",
+    "tags": [
+      "librarians",
+      "libraries",
+      "library and information science",
+      "archives",
+      "Palestine",
+      "travel",
+      "Intifada"
+    ],
+    "pdf": "zines/librarians/Librarians_and_Archivists_to_Palestine/Librarians_and_Archivists_to_Palestine.pdf",
+    "cover": "zines/librarians/Librarians_and_Archivists_to_Palestine/cover.jpg"
+  },
+  {
+    "title": "Collaborative Zine vol. 1",
+    "tags": [
+      "librarians",
+      "libraries",
+      "library and information science",
+      "zines",
+      "zine resources"
+    ],
+    "pdf": "zines/librarians/ALA_2022-Vol1_print/ALA_2022-Vol1_print.pdf",
+    "cover": "zines/librarians/ALA_2022-Vol1_print/cover.jpg"
+  },
+  {
+    "title": "Raven shines light and stories from ACRL 2015",
+    "tags": [
+      "librarians",
+      "library and information science",
+      "zines"
+    ],
+    "pdf": "zines/librarians/ACRL_2015_screen.pdf/ACRL_2015_screen.pdf",
+    "cover": "zines/librarians/ACRL_2015_screen.pdf/cover.jpg"
+  },
+  {
+    "title": "(Over)Heard in a Library",
+    "tags": [
+      "librarians",
+      "libraries",
+      "library and information science",
+      "zines",
+      "zine resources"
+    ],
+    "pdf": "zines/librarians/Over_Heard_in_a_Library/Over_Heard_in_a_Library.pdf",
+    "cover": "zines/librarians/Over_Heard_in_a_Library/cover.jpg"
+  },
+  {
+    "title": "ALA 2014 Comic Screen",
+    "tags": [
+      "libraries",
+      "library and information science",
+      "librarians",
+      "zines",
+      "comics",
+      "DIY comics"
+    ],
+    "pdf": "zines/librarians/ALA_2014_comic_screen.pdf/ALA_2014_comic_screen.pdf",
+    "cover": "zines/librarians/ALA_2014_comic_screen.pdf/cover.jpg"
+  }
+]

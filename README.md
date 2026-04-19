@@ -135,18 +135,7 @@ For academic and research‑oriented work on zines and zine librarianship:
 This group brings together scholarship on zines, alternative publishing, pedagogy, and information studies.
 
 ---
-
-## 🧾 Project Context
-
-**Hannah Nelson‑Teutsch**  
-INFS 616  
-February 16, 2026  
-
-This repository grew out of coursework focused on **information retrieval systems**, but it is also a personal and professional project rooted in zine librarianship, citation practice, and community knowledge‑making.
-
 Zines about libraries and librarianship exist — but without a dedicated retrieval system, they remain difficult to find.  
 This project aims to change that.
 
 ---
-
-💜 *Read a zine. Make a zine. Catalog a zine. Share a zine.*

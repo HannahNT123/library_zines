@@ -46,7 +46,7 @@ According to Anchor Archive:
 
 *The Zine Subject Thesaurus is a set of subject terms that can be used to catalogue zines and other alternative publications or content. It is used in the Anchor Archive catalogue and by many zine libraries and collections around the world. It is designed to be accessible, with language that typical zine readers would use to search for content." The Subject Thesaurus also prioritizes "up-to-date terminology used by radical communities to refer to people, places, concepts, and movements. The Zine Thesaurus currently as over 1,800 preferred terms, and more terms are added every month.*
 
-**For more on Anchor Archive or their incredible Zine Thesaurus, visit: https://anchorarchive.org/subject-thesaurus/about**
+**For more on Anchor Archive and their incredible Zine Thesaurus, visit: https://anchorarchive.org/subject-thesaurus/about**
 
 ---
 

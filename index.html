@@ -11,6 +11,7 @@
       font-family: system-ui, sans-serif;
     }
 
+    /* NAV BAR */
     nav {
       position: absolute;
       top: 30px;
@@ -18,9 +19,17 @@
       font-size: 1rem;
     }
 
-    nav a {
+    nav a,
+    nav a:visited,
+    nav a:hover,
+    nav a:active {
       margin-left: 24px;
+      color: black;
       text-decoration: none;
+    }
+
+    nav a:hover {
+      text-decoration: underline;
     }
 
     h1 {
@@ -134,9 +143,11 @@ fetch("data/zines.json")
         render(zines);
         return;
       }
+
       const filtered = zines.filter(z =>
         [...activeTags].every(t => z.tags.includes(t))
       );
+
       render(filtered);
     }
 
@@ -158,6 +169,7 @@ fetch("data/zines.json")
     tags.forEach(tag => {
       const b = document.createElement("button");
       b.textContent = tag;
+
       b.onclick = () => {
         if (activeTags.has(tag)) {
           activeTags.delete(tag);
@@ -168,6 +180,7 @@ fetch("data/zines.json")
         }
         applyFilters();
       };
+
       tagBox.appendChild(b);
     });
   });
